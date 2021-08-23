@@ -1,0 +1,12 @@
+# cs6400-2021-01-Team043
+We'll be using MySQL.
+
+
+Git command:
+(in the terminal cd to a folder:)
+git pull https://github.gatech.edu/cs6400-2021-01-spring/cs6400-2021-01-Team043.git
+(go inside the folder)
+cd C:\user\cs6400-2021-01-Team043
+git add .
+git commit -m 'what to say?'
+git push

@@ -1,0 +1,44 @@
+OMSCS CS 6400 Team043:
+Shi, Yilin		email: yshi401@gatech.edu
+Xiong, Qing		email: qxiong9@gatech.edu
+Meixiong, Gerald	email: gmeixiong3@gatech.edu
+Chen, Aoxia		email: achen372@gatech.edu
+Phu, Duy Hoang Bao	email: dphu3@gatech.edu
+
+SQL Language used: MySQL 
+GUI: Python
+
+Paths to files containing SQL commands used in project:
+
+00-1 team043_p2_Schema: Report Schema
+https://github.gatech.edu/cs6400-2021-01-spring/cs6400-2021-01-Team043/blob/master/Phase3/sql/team043_p2_schema.sql
+
+00-2. Report0: Reports tab logistics on GUI 
+https://github.gatech.edu/cs6400-2021-01-spring/cs6400-2021-01-Team043/blob/master/Phase3/sql/Report0.sql
+
+01. Report1: View Products by Category
+https://github.gatech.edu/cs6400-2021-01-spring/cs6400-2021-01-Team043/blob/master/Phase3/sql/Report1.sql
+
+02. Report2: Analyze Revenue for Couches and Sofas
+https://github.gatech.edu/cs6400-2021-01-spring/cs6400-2021-01-Team043/blob/master/Phase3/sql/Report2.sql
+
+03. Report3: View Store Revenue by Year by State
+https://github.gatech.edu/cs6400-2021-01-spring/cs6400-2021-01-Team043/blob/master/Phase3/sql/Report3.sql
+
+04. Report4: Analyze Sales for Outdoor Furniture on Groundhog Day
+https://github.gatech.edu/cs6400-2021-01-spring/cs6400-2021-01-Team043/blob/master/Phase3/sql/Report4.sql
+
+05. Report5: View States with Highes Volume Sold by Category
+https://github.gatech.edu/cs6400-2021-01-spring/cs6400-2021-01-Team043/blob/master/Phase3/sql/Report5.sql
+
+06. Report6: Calculate Revenue by Population Categories
+https://github.gatech.edu/cs6400-2021-01-spring/cs6400-2021-01-Team043/blob/master/Phase3/sql/Report6.sql
+
+07. Report7: Analyze Sales by Volume for each Childcare Category
+https://github.gatech.edu/cs6400-2021-01-spring/cs6400-2021-01-Team043/blob/master/Phase3/sql/Report7.sql
+
+08. Report8: Analyze Restaurant Impact on Sales by Categories
+https://github.gatech.edu/cs6400-2021-01-spring/cs6400-2021-01-Team043/blob/master/Phase3/sql/Report8.sql
+
+09. Report9: Analyze Sales during Advertising Campaigns
+https://github.gatech.edu/cs6400-2021-01-spring/cs6400-2021-01-Team043/blob/master/Phase3/sql/Report9.sql
